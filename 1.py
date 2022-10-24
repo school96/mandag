@@ -12,7 +12,8 @@ print("Etter 2 måneder du vil bli tilbudt " + str(round(amount, 2)) + "kr")
 '''Lag en funksjon som regner ut total lønn etter 2 måneder, og lønn for 
 dag 15, 30, 45 og 50. Bruk print() for å vise disse verdiene i terminalen'''
 basesalary = 4500
-print("Lønn var " + str(basesalary * 2) + " etter 2 måneder")
+print("Du starter med 4500kr")
+print("Lønn var " + str(basesalary * 2) + "kr etter 2 måneder")
 
 ##Oppgave 2##
 ''' Opprett en funksjon som kan tegne følgende figur i terminalen:
